@@ -14,18 +14,12 @@ An interactive, AI-powered 3D particle engine built with **Three.js** and **Medi
 
 ## 🎮 How to Interact
 
-### 🖐️ Using AI Gestures (Camera Required)
+### 🖐️ AI Gesture Controls
 - **Open Palm:** Expand the particle system (Scale based on hand span).
 - **Closed Fist:** Activate the **Gravity Well** (suck particles into the center).
 - **Two Fingers:** Trigger the secret **"I MISS YOU"** mode.
 - **Finger Pinch:** Fine-tuned scaling.
 - **Palm Position:** Particles follow your hand in 3D space.
-
-### 🖱️ Using Mouse & Keyboard (Fallback)
-- **Move Mouse:** Particles follow your cursor.
-- **Left Click (Hold):** Activate **Gravity Well**.
-- **Scroll Wheel:** Control system expansion.
-- **Spacebar:** Toggle **"I MISS YOU"** mode.
 
 ## 🛠️ Built With
 - **Three.js** - 3D WebGL rendering.
